@@ -74,6 +74,11 @@ input::placeholder {
     display: block;
 }
 
+.sign-up {
+    text-decoration: none;
+    color: #007AFF;
+}
+
 p {
     text-align: center;
     color: rgb(0, 0, 0, 0.51);
@@ -81,9 +86,4 @@ p {
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
-}
-
-.sign-up {
-    text-decoration: none;
-    color: #007AFF;
 }
